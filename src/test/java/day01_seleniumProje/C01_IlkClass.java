@@ -15,6 +15,11 @@ public class C01_IlkClass {
         WebDriver driver = new ChromeDriver();
         driver.get("https://www.amazon.com.tr/");
         Thread.sleep(2000);
+        driver.get("https://www.techproeducation.com");
+        Thread.sleep(2000);
+        driver.get("https://www.facebook.com");
+        Thread.sleep(2000);
+        //driver.close();
 
 
     }
