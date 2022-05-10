@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb01a373-01d9-431c-8812-bdb53ee087aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C02_DriverMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C03_IlkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C04_DriverMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C05_getWindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C06_navigate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C07_manageMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C08_mangeMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C09_manageMethodlari.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day01_seleniumProje/C01_IlkClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day01_seleniumProje/C01_IlkClass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C04_getPageSourcetype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C04_getPageSourcetype.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,22 +56,9 @@
       <recent name="C:\Users\90531\IdeaProjects\Batch59Selenium2\src\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C04_DriverMethodlari">
-    <configuration name="C01_IlkClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_seleniumProje.C01_IlkClass" />
-      <module name="Batch59Selenium2" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day01_seleniumProje.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="C02_DriverMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C02_DriverMethodlari" />
+  <component name="RunManager" selected="Application.C09_manageMethodlari">
+    <configuration name="C05_getWindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C05_getWindowHandle" />
       <module name="Batch59Selenium2" />
       <extension name="coverage">
         <pattern>
@@ -81,8 +70,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_IlkTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C03_IlkTest" />
+    <configuration name="C06_navigate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C06_navigate" />
       <module name="Batch59Selenium2" />
       <extension name="coverage">
         <pattern>
@@ -94,8 +83,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_DriverMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C04_DriverMethodlari" />
+    <configuration name="C07_manageMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C07_manageMethodlari" />
+      <module name="Batch59Selenium2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_driverMethodlari.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_mangeMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C08_mangeMethodlari" />
+      <module name="Batch59Selenium2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_driverMethodlari.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C09_manageMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C09_manageMethodlari" />
       <module name="Batch59Selenium2" />
       <extension name="coverage">
         <pattern>
@@ -109,10 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C04_DriverMethodlari" />
-        <item itemvalue="Application.C03_IlkTest" />
-        <item itemvalue="Application.C02_DriverMethodlari" />
-        <item itemvalue="Application.C01_IlkClass" />
+        <item itemvalue="Application.C09_manageMethodlari" />
+        <item itemvalue="Application.C08_mangeMethodlari" />
+        <item itemvalue="Application.C07_manageMethodlari" />
+        <item itemvalue="Application.C06_navigate" />
+        <item itemvalue="Application.C05_getWindowHandle" />
       </list>
     </recent_temporary>
   </component>

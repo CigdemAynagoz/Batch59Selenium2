@@ -11,7 +11,7 @@ public class C04_getPageSourcetype {
         driver.manage().window().maximize();
         driver.get("https://www.amazon.com/");
         String sayfaKaynaklari=driver.getPageSource();
-        String arananKelime="Amazon EXport Sales";
+        String arananKelime="Gateway";
         if (sayfaKaynaklari.contains(arananKelime)){
             System.out.println("Test PASSED");
         }else {
