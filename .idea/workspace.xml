@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb01a373-01d9-431c-8812-bdb53ee087aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/HomeWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/AmazonSearchTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C01_Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C02_findElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C03_Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C04_WebElementMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_xpath_cssLocator/C01_AmazonSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_xpath_cssLocator/C02_xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_xpath_cssLocator/C03_CssSelector.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,7 +53,7 @@
       <recent name="C:\Users\90531\IdeaProjects\Batch59Selenium2\src\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.AmazonSearchTest">
+  <component name="RunManager" selected="Application.C03_CssSelector">
     <configuration name="AmazonSearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day03_locators.AmazonSearchTest" />
       <module name="Batch59Selenium2" />
@@ -70,12 +67,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C01_Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_locators.C01_Locators" />
+    <configuration name="C01_AmazonSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_xpath_cssLocator.C01_AmazonSearch" />
       <module name="Batch59Selenium2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_locators.*" />
+          <option name="PATTERN" value="day05_xpath_cssLocator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +80,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_findElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_locators.C02_findElements" />
+    <configuration name="C02_xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_xpath_cssLocator.C02_xpath" />
       <module name="Batch59Selenium2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_locators.*" />
+          <option name="PATTERN" value="day05_xpath_cssLocator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +93,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_locators.C03_Locators" />
+    <configuration name="C03_CssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_xpath_cssLocator.C03_CssSelector" />
       <module name="Batch59Selenium2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_locators.*" />
+          <option name="PATTERN" value="day05_xpath_cssLocator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C03_CssSelector" />
+        <item itemvalue="Application.C02_xpath" />
         <item itemvalue="Application.AmazonSearchTest" />
+        <item itemvalue="Application.C01_AmazonSearch" />
         <item itemvalue="Application.C04_WebElementMethodlari" />
-        <item itemvalue="Application.C03_Locators" />
-        <item itemvalue="Application.C02_findElements" />
-        <item itemvalue="Application.C01_Locators" />
       </list>
     </recent_temporary>
   </component>
