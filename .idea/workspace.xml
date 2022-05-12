@@ -5,13 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb01a373-01d9-431c-8812-bdb53ee087aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C05_getWindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C06_navigate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C07_manageMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C08_mangeMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C09_manageMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/HomeWork.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/AmazonSearchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C01_Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C02_findElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C03_Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C04_WebElementMethodlari.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C04_getPageSourcetype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethodlari/C04_getPageSourcetype.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +56,13 @@
       <recent name="C:\Users\90531\IdeaProjects\Batch59Selenium2\src\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C09_manageMethodlari">
-    <configuration name="C05_getWindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C05_getWindowHandle" />
+  <component name="RunManager" selected="Application.AmazonSearchTest">
+    <configuration name="AmazonSearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.AmazonSearchTest" />
       <module name="Batch59Selenium2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethodlari.*" />
+          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_navigate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C06_navigate" />
+    <configuration name="C01_Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C01_Locators" />
       <module name="Batch59Selenium2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethodlari.*" />
+          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +83,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_manageMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C07_manageMethodlari" />
+    <configuration name="C02_findElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C02_findElements" />
       <module name="Batch59Selenium2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethodlari.*" />
+          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_mangeMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C08_mangeMethodlari" />
+    <configuration name="C03_Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C03_Locators" />
       <module name="Batch59Selenium2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethodlari.*" />
+          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_manageMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethodlari.C09_manageMethodlari" />
+    <configuration name="C04_WebElementMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C04_WebElementMethodlari" />
       <module name="Batch59Selenium2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethodlari.*" />
+          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C09_manageMethodlari" />
-        <item itemvalue="Application.C08_mangeMethodlari" />
-        <item itemvalue="Application.C07_manageMethodlari" />
-        <item itemvalue="Application.C06_navigate" />
-        <item itemvalue="Application.C05_getWindowHandle" />
+        <item itemvalue="Application.AmazonSearchTest" />
+        <item itemvalue="Application.C04_WebElementMethodlari" />
+        <item itemvalue="Application.C03_Locators" />
+        <item itemvalue="Application.C02_findElements" />
+        <item itemvalue="Application.C01_Locators" />
       </list>
     </recent_temporary>
   </component>
