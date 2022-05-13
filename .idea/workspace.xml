@@ -5,9 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cb01a373-01d9-431c-8812-bdb53ee087aa" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_xpath_cssLocator/C01_AmazonSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_xpath_cssLocator/C02_xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day05_xpath_cssLocator/C03_CssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day05_xpath_cssLocator/C04_RelativeXpath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,7 +51,7 @@
       <recent name="C:\Users\90531\IdeaProjects\Batch59Selenium2\src\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C03_CssSelector">
+  <component name="RunManager" selected="Application.C04_RelativeXpath">
     <configuration name="AmazonSearchTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day03_locators.AmazonSearchTest" />
       <module name="Batch59Selenium2" />
@@ -106,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C04_WebElementMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_locators.C04_WebElementMethodlari" />
+    <configuration name="C04_RelativeXpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day05_xpath_cssLocator.C04_RelativeXpath" />
       <module name="Batch59Selenium2" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_locators.*" />
+          <option name="PATTERN" value="day05_xpath_cssLocator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C04_RelativeXpath" />
         <item itemvalue="Application.C03_CssSelector" />
         <item itemvalue="Application.C02_xpath" />
         <item itemvalue="Application.AmazonSearchTest" />
         <item itemvalue="Application.C01_AmazonSearch" />
-        <item itemvalue="Application.C04_WebElementMethodlari" />
       </list>
     </recent_temporary>
   </component>
